@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Golden brush-tailed possum","category":"Crimson"},
+{"id":2,"name":"Four-striped grass mouse","category":"Mauv"},
+{"id":3,"name":"North American river otter","category":"Purple"},
+{"id":4,"name":"Greylag goose","category":"Maroon"},
+{"id":5,"name":"Canadian river otter","category":"Crimson"},
+{"id":6,"name":"White-browed sparrow weaver","category":"Blue"},
+{"id":7,"name":"Cockatoo, red-breasted","category":"Violet"},
+{"id":8,"name":"Greater kudu","category":"Maroon"},
+{"id":9,"name":"White rhinoceros","category":"Mauv"},
+{"id":10,"name":"Short-beaked echidna","category":"Maroon"},
+{"id":11,"name":"Lizard, collared","category":"Green"},
+{"id":12,"name":"American badger","category":"Orange"},
+{"id":13,"name":"Porcupine, indian","category":"Maroon"},
+{"id":14,"name":"White-winged black tern","category":"Violet"},
+{"id":15,"name":"Great egret","category":"Pink"},
+{"id":16,"name":"Tern, white-winged black","category":"Orange"},
+{"id":17,"name":"Waterbuck, defassa","category":"Orange"},
+{"id":18,"name":"Lemur, sportive","category":"Aquamarine"},
+{"id":19,"name":"Marabou stork","category":"Red"},
+{"id":20,"name":"Capuchin, brown","category":"Green"}
+]
+}
